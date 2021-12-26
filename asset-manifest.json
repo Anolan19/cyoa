@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cyoa/static/css/main.c5304123.css",
+    "main.js": "/cyoa/static/js/main.adb18b6f.js",
+    "static/js/787.7e72aa40.chunk.js": "/cyoa/static/js/787.7e72aa40.chunk.js",
+    "index.html": "/cyoa/index.html",
+    "main.c5304123.css.map": "/cyoa/static/css/main.c5304123.css.map",
+    "main.adb18b6f.js.map": "/cyoa/static/js/main.adb18b6f.js.map",
+    "787.7e72aa40.chunk.js.map": "/cyoa/static/js/787.7e72aa40.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5304123.css",
+    "static/js/main.adb18b6f.js"
+  ]
+}
