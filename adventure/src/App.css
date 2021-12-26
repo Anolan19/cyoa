@@ -1,0 +1,13 @@
+html {
+  background-color: blueviolet;
+  color: cornsilk;
+}
+.bodyText {
+  text-align: center;
+  padding: 25% 0;
+  box-sizing: border-box;
+}
+div {
+  width: 100vw;
+  height: 100vh;
+}
